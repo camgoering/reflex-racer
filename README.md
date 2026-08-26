@@ -70,10 +70,6 @@ Built with Pablo Storch, Peter Wraith, and Nicholas Rich.
 1. Download the latest release from the [Releases](../../releases) page.
 2. Extract the archive and run `Reflex Racer.exe`.
 
-<!-- Move the build off Google Drive and into a GitHub Release:
-     repo page → Releases → "Create a new release" → attach Build.zip.
-     Personal Drive links break, get permission-gated, and look improvised. -->
-
 ### Build from source
 
 1. Clone the repository.
@@ -99,4 +95,4 @@ Unity · C# · Leaderboard Creator (Dan Qzq)
 
 - Highway background: [asset name / author, with link]
 - Leaderboard: Leaderboard Creator by Dan Qzq
-- Audio: created by [teammate name]
+- Audio: created by Nick Rich
