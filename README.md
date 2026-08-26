@@ -65,16 +65,9 @@ Built with Pablo Storch, Peter Wraith, and Nicholas Rich.
 
 ## Running the Game
 
-### Play the build
-
-1. Download the latest release from the [Releases](../../releases) page.
-2. Extract the archive and run `Reflex Racer.exe`.
-
-### Build from source
-
 1. Clone the repository.
 2. Open the project folder in Unity 6000.0.38f1 or later.
-3. Open Assets/Scenes/MainMenu.unity and press Play.
+3. Open `Assets/Scenes/MainMenu.unity` and press Play.
 
 ---
 
@@ -93,5 +86,6 @@ Unity · C# · Leaderboard Creator (Dan Qzq)
 
 ## Credits
 
+- Highway background: Cyberpunk Street asset pack
 - Leaderboard: Leaderboard Creator by Dan Qzq
 - Audio: created by Nick Rich
