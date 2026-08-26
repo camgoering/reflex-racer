@@ -4,10 +4,7 @@ A 2D Unity driving game that measures player reaction time across a series of ti
 
 Started as a personal Unity project and later extended into a four-person team build for COSC 302 at the University of Tennessee, Knoxville.
 
-<!-- ADD A SCREENSHOT OR GIF HERE — highest-impact addition to this repo.
-     Record ~10 seconds of gameplay, convert to GIF, put it in a /docs folder, then:
-     ![Gameplay](docs/gameplay.gif)
--->
+<img width="2878" height="1615" alt="Screenshot 2026-08-26 150838" src="https://github.com/user-attachments/assets/69aacd76-e8a2-485d-a41f-ba707bf9907d" />
 
 ---
 
