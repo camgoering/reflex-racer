@@ -73,8 +73,8 @@ Built with Pablo Storch, Peter Wraith, and Nicholas Rich.
 ### Build from source
 
 1. Clone the repository.
-2. Open the project folder in Unity [VERSION] or later.
-3. Open `Assets/Scenes/[MAIN SCENE]` and press Play.
+2. Open the project folder in Unity 6000.0.38f1 or later.
+3. Open Assets/Scenes/MainMenu.unity and press Play.
 
 ---
 
@@ -93,6 +93,5 @@ Unity · C# · Leaderboard Creator (Dan Qzq)
 
 ## Credits
 
-- Highway background: [asset name / author, with link]
 - Leaderboard: Leaderboard Creator by Dan Qzq
 - Audio: created by Nick Rich
